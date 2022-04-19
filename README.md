@@ -19,3 +19,10 @@ Após analise dessa base de dados não foram achadas inconsistencias com os dado
 
 **Terceira Etapa**
 Primeira etapa foi a Criação da DataBase no SQL, após isso foi feito o upload das 3 bases de dados (cod_cnae_secundarios, Estabelecimentos e empresas), através da ferramenta de import e export do SQL Managment Studio, então foram criadas as VIEWs conforme foram pedidas.
+
+SUMARO VIEWS
+
+3.1 quantidade_cnpj_sem_cnae_secundario  
+3.2 QTDE_ESTAB_C_CNAE_4530703 
+3.3 QTDE_ESTAB_C_CNAE_4530703_EM_EMPRESAS  
+3.4 TOP10_ESTABELECIMENTOS_COM_MAIS_CNAE_SECUNDARIO 
